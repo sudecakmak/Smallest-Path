@@ -5,7 +5,7 @@ When the matrix is drawn in the usual way, the path goes absolutely down. It's l
 # Algorithm
 1-) First, I created a matrix generated numbers between 0-9 randomly.
 
-2-) I found the sum of the numbers while going down the matrix.
+2-) I found the sum of the numbers while going down the matrix. (Cell Weight - Path Weight)
 
 3-) I found the smallest sum value in the bottom row.
 
@@ -14,3 +14,11 @@ When the matrix is drawn in the usual way, the path goes absolutely down. It's l
 5-) Finally, I printed the numbers on the screen.
 
 
+
+
+![Screenshot 2022-10-25 182735](https://user-images.githubusercontent.com/102357822/197816248-89d9440c-f9b0-466b-8b2b-2c781a39b837.png)
+
+
+
+# Output Example
+![Screenshot 2022-10-25 182652](https://user-images.githubusercontent.com/102357822/197816239-468f4bdb-75c4-411a-9f43-4369967ff179.png)
